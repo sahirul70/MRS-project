@@ -1,0 +1,14 @@
+Machine Learning
+Linear regression theory (4 lectures)
+
+Linear regression with scikit-learn (2 lectures)
+
+Logistic regression with scikit-learn (2 lectures)
+
+Decision tree (2 lectures)
+
+Random Forest (2 lectures)
+
+Gradient boosting (2 lectures)
+
+Unsupervised learning: clustering, k-means, recommender systems (2 lectures)
